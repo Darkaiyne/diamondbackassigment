@@ -3,14 +3,14 @@
 <?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-      <fileDesc>
+      <fileDesc> An article 
          <titleStmt>
             <title>Diamondback Article</title>
          </titleStmt>
-         <publicationStmt>
+         <publicationStmt> Written by Daris S. Caldwell
             <p>Publication Information</p>
          </publicationStmt>
-         <sourceDesc>
+         <sourceDesc> From the Diamondback archive from the University of Maryland https://www.lib.umd.edu/univarchives/student-newspapers/id/7997a8e8-3a35-481e-9158-4c5c0f12b127
             <p>Information  about the source</p>
          </sourceDesc>
       </fileDesc>
@@ -26,14 +26,17 @@ homosexuals and bisexuals are often the butt of cruel
 jokes, pranks and assualts.
 While a major hate crime against a homosexual has not
 been reported on this campus recently, students are calling
-for a study on campus attitudes towards homosexuality.Homosexuals are a part of this campus community.
+for a study on campus attitudes towards homosexuality.<choiceHomosexuals are a part of this campus community.
 When predjudice prevents them from being produc­
 tive members of our community, the university as a
 whole suffers.
 Students like <persName>Steve Kalathas</persName> are calling for the creation
 of an ad-hoc <orgName>Committee for Sexual Orientation and Student
 Equity</orgName>. The committee would include heterosexuals and homosexuals, and would look into the way gays are treated.
-<persName>Kalathas</persName> should be commended for his efforts to
+  <cb break="no"> </p>
+  
+<p>
+  <persName>Kalathas</persName> should be commended for his efforts to
 disprove myths that surround homosexuality.
 <persName>Kalathas'</persName> attempt to attract heterosexuals into the
 fight for homosexual equality shows he is serious
